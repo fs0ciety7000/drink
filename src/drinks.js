@@ -7,7 +7,7 @@ export const DRINKS = [
   { id: 'petillante', name: 'Eau pét.',   emoji: '🫧' },
   { id: 'kriek',      name: 'Kriek',      emoji: '🍒' },
   { id: 'limonade',   name: 'Limonade',   emoji: '🍋' },
-  { id: 'Pils',       name: 'Pils',       emoji: '🍺' },
+  { id: 'maes',       name: 'Maes',       emoji: '🍺' },
   { id: 'panache',    name: 'Panaché',    emoji: '🥂' },
   { id: 'tango',      name: 'Tango',      emoji: '🍊' },
   { id: 'vin',        name: 'Vin rouge',  emoji: '🍷' },
