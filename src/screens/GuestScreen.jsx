@@ -36,7 +36,7 @@ export default function GuestScreen({ session: initialSession, myName }) {
     <div className="flex flex-col min-h-screen" style={{ background: '#1a0f00' }}>
       <div className="sticky top-0 z-10 px-5 py-4 border-b" style={{ background: '#1a0f00', borderColor: '#3d2500' }}>
         <span className="font-display text-3xl tracking-widest" style={{ color: '#f5a623' }}>
-          Ta<span className="text-white">Bière</span>
+          Kestu<span className="text-white">Prends ?</span>
         </span>
       </div>
 
@@ -82,7 +82,7 @@ export default function GuestScreen({ session: initialSession, myName }) {
       {/* Header */}
       <div className="sticky top-0 z-10 px-5 py-3 border-b" style={{ background: '#1a0f00', borderColor: '#3d2500' }}>
         <span className="font-display text-3xl tracking-widest" style={{ color: '#f5a623' }}>
-          Ta<span className="text-white">Bière</span>
+          Kestu<span className="text-white">Prends ?</span>
         </span>
         <div className="flex items-center gap-1 mt-0.5">
           <span className="w-2 h-2 rounded-full pulse-dot" style={{ background: '#27ae60' }}></span>

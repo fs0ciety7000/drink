@@ -30,7 +30,7 @@ export default function JoinScreen({ onBack, onJoined }) {
     <div className="flex flex-col min-h-screen" style={{ background: '#1a0f00' }}>
       <div className="sticky top-0 z-10 px-5 py-4 border-b" style={{ background: '#1a0f00', borderColor: '#3d2500' }}>
         <span className="font-display text-3xl tracking-widest" style={{ color: '#f5a623' }}>
-          Ta<span className="text-white">Bière</span>
+          Kestu<span className="text-white">Prends ?</span>
         </span>
       </div>
 

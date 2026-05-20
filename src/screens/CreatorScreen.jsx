@@ -32,7 +32,7 @@ export default function CreatorScreen({ initialSession, onClose }) {
       {/* Header */}
       <div className="sticky top-0 z-10 px-5 py-3 border-b" style={{ background: '#1a0f00', borderColor: '#3d2500' }}>
         <span className="font-display text-3xl tracking-widest" style={{ color: '#f5a623' }}>
-          Ta<span className="text-white">Bière</span>
+          Kestu<span className="text-white">Prends ?</span>
         </span>
         <div className="text-xs mt-0.5" style={{ color: '#c9a87e' }}>
           {memberCount} membre{memberCount > 1 ? 's' : ''} · {orderedCount} commande{orderedCount > 1 ? 's' : ''}
